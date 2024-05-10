@@ -3,7 +3,7 @@
 //  GKPageScrollViewObjc
 //
 //  Created by QuintGao on 2020/10/22.
-//  Copyright © 2020 QuintGao. All rights reserved.
+//  Copyright © 2020 QuintGao. All rights reserved.11111111111111
 //
 
 #import <UIKit/UIKit.h>
